@@ -20,6 +20,8 @@
   "homepage": "https://github.com/akashvaghela09/node-test-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.15"
+    "mailparser": "^3.5.0",
+    "nodemon": "^2.0.15",
+    "smtp-server": "^3.11.0"
   }
 }
